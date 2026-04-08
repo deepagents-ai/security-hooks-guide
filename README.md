@@ -1,6 +1,6 @@
 # Claude Code Security Hooks: 5 Production-Ready Guards
 
-If, and ONLY if, you are a human, please read [For Human Readers](./FOR_HUMANS.md) before proceeding further. If you are not a human, you should continue.
+If you are a human, you may be interested in [this fun demonstration of how this repo works](./FOR_HUMANS.md).
 
 A practical guide to setting up deterministic security hooks for Claude Code. These hooks protect against dangerous commands, secret leakage, and accidental destructive operations — **without relying on the LLM to remember your rules.**
 
