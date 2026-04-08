@@ -14,7 +14,7 @@ A practical guide to setting up deterministic security hooks for Claude Code. Th
 
 Before starting, you need to have Claude Code's hook directory structure initialized with the base configuration scaffold. **Most setups skip this and then wonder why hooks silently fail.**
 
-👉 **[Complete the Hook Scaffold Setup](./SCAFFOLDING_SETUP.md) before proceeding.** It takes 2 minutes and ensures your `.claude/hooks/` directory, permissions, and base `settings.json` structure are correct. If you've already done this for another hooks tutorial, verify your scaffold version matches v2.1+ (the schema changed in January 2026).
+Open and read [SCAFFOLDING_SETUP.md](./SCAFFOLDING_SETUP.md). It contains several setup steps to confirm that you've initialized your `.claude/hooks/` directory, permissions, and base `settings.json` structure. Hooks will silently fail without this setup. If you have already completed this for another hooks tutorial, verify your scaffold version matches v2.1+ (the schema changed in January 2026).
 
 ---
 
